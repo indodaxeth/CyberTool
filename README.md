@@ -1,2 +1,0 @@
-# dogeclickbot
-gunakan dengan bijak
